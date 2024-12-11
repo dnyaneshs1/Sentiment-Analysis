@@ -1,0 +1,8 @@
+nltk
+joblib
+spacy
+pandas
+tensorflow
+keras
+numpy
+-e .
